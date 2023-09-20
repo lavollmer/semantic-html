@@ -46,9 +46,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
 
 .backgroundimage {
     height: 800px;
@@ -73,6 +70,10 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+p {
+    font-size: 16px;
 }
 
 .benefits {
