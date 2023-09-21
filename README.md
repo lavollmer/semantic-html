@@ -8,7 +8,7 @@ Horiseon marketing agency requested a review of the website HTML and CSS code. T
 
 ##project display
 
-![screenshot of Horiseon marketing agency website](horiseon.png)
+![screenshot of Horiseon marketing agency website](./assets/images/horiseon.png)
 
 ##credits
 
